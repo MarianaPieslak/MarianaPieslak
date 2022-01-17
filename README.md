@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Mariana Pieslak 👋
 
 🌍 Moro em São Paulo, Brasil <br>
-💻 Atuo como Product Analyst <br>
+💻 Atuo como Product Owner <br>
 🎯 Atualmente trabalho com Product Management <br>
 🎓 Graduanda em Análise e Desenvolvimento de Sistemas <br>
 
