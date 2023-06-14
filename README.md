@@ -1,4 +1,4 @@
-## Olá, eu me chamo Mariana Pieslak 👋
+## Olá, eu me chamo Mariana Pieslak 👋🏻
 
 🌍 Moro em São Paulo, Brasil <br>
 💻 Atuo como Product Owner <br>
