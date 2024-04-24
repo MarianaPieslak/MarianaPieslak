@@ -1,9 +1,9 @@
 ## Olá, eu me chamo Mariana Pieslak 👋🏻
 
 🌍 Moro em São Paulo, Brasil <br>
-💻 Atuo como Product Owner <br>
+💻 Atuo como Product Manager <br>
 🎯 Apaixonada por pessoas, produtos e tecnologia <br>
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas <br>
+🎓 Graduada em Análise e Desenvolvimento de Sistemas <br>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
